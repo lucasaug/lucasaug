@@ -2,7 +2,7 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasaug&theme=merko&show_icons=true&hide=contribs&line_height=24)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasaug&theme=merko&show_icons=true&hide=contribs&line_height=24&count_private=true)
 
 ## 🧰 Languages and Tools:
 
