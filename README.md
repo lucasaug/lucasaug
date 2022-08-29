@@ -1,6 +1,4 @@
-![Hello, I'm Lucas!, Welcome to my Github profile](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Welcome%20to%20my%20Github%20profile&title=Hello%2C%20I%27m%20Lucas%21)
-
----
+# Hello, I'm Lucas!, Welcome to my Github profile
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasaug&theme=merko&show_icons=true&hide=contribs&line_height=24&count_private=true)
 
