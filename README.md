@@ -4,7 +4,7 @@
 
 📚 I'm currently studying **Rust, Go, Ruby, React, Typescript, nvim**
 
-🎶 Fun fact: I'm a keyboardist 🎹 (as a hobby) and started taking singing classes this year 🎤
+🎶 Fun fact: I'm a keyboardist 🎹 and started taking singing classes this year 🎤
 
 ## 🧰 Languages and Tools:
 
