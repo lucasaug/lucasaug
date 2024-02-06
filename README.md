@@ -10,7 +10,7 @@
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" style="vertical-align:top; margin:4px" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="32" style="vertical-align:top; margin:4px" alt="Rust"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="32" style="vertical-align:top; margin:4px" alt="Rust"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" style="vertical-align:top; margin:4px" alt="Go"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" style="vertical-align:top; margin:4px" alt="FastAPI"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" style="vertical-align:top; margin:4px" alt="Docker"/>
