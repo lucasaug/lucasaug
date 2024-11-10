@@ -2,7 +2,7 @@
 
 ✨ I'm currently working as a **Backend Software Engineer**
 
-📚 I'm currently studying **Rust, Go, Ruby, React, and htmx**
+📚 I'm currently studying **Rust, Go, Ruby, and htmx**
 
 🎶 Fun fact: I'm a keyboardist 🎹 and singer 🎤
 
